@@ -1,6 +1,6 @@
 /* Add a background image to the body */
 body {
-    background-image: url("../BackGround.jpeg");
+    background-image: url("BackGround.jpeg");
     background-size: cover; /* Make the image cover the entire background */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent the background image from repeating */
